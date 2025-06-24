@@ -1,2 +1,2 @@
 # Improve-Java-Coding
-Source code of the book Improve Java Coding By Sar Maroof
+Source code for the book Improve Java Coding by Sar Maroof.
